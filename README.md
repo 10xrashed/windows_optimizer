@@ -128,4 +128,6 @@ This script modifies system settings and registry entries. While designed to be 
 
 ## License
 
+This project is licensed under the MIT License.
+
 This script is provided as-is for educational and optimization purposes. Redistribution and modification are permitted with proper attribution.
