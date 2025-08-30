@@ -7,19 +7,6 @@
 
 An advanced, command-line-based utility designed to clean, optimize, and enhance the performance of Windows 10 and 11 systems. This script provides a comprehensive suite of tools to remove junk files, tweak system and network settings, and manage system health, all from one easy-to-use interface.
 
- <!-- It's highly recommended to add a screenshot of your script in action here! -->
-
-## Table of Contents
-
--   [Features](#features)
--   [Getting Started](#getting-started)
--   [How to Use](#how-to-use)
--   [Options Menu Explained](#options-menu-explained)
--   [Disclaimer & Warning](#disclaimer--warning)
--   [Future Development](#future-development)
--   [Contributing](#contributing)
--   [License](#license)
-
 ## Features
 
 -   **Administrator Check**: Ensures the script is run with the necessary privileges to perform system-level changes.
@@ -99,3 +86,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Credits
+
+*   **Original Author:** [10xrashed](https://github.com/10xrashed)
